@@ -15,6 +15,10 @@ It is an implementation to modelize an option payoff with the Black - Scholes mo
 
 We note that the graph is near to the theoretical curve of an option. It shows that the model represents well the reality.
 
+# requirements
+
+Python >= 3 and numpy
+
 # launch the algorithm
 
 python call_curve.py
